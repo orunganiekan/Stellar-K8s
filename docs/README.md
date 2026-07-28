@@ -47,11 +47,13 @@ Production-grade Stellar infrastructure on Kubernetes. This directory contains a
 - [Cross-Cloud Failover](cross-cloud-failover.md)
 - [Pod Disruption Budgets](pod-disruption-budget.md)
 - [Backup Verification](backup-verification.md)
+- [Backup and Disaster Recovery Runbook](backup-disaster-recovery-runbook.md)
 - [Operations Runbook](operations/index.md)
 - [Incident Response](operations/incident-response.md)
 
 ## Observability
 
+- [SCP Consensus Topology and Monitoring](scp-consensus-topology-and-monitoring.md)
 - [Metrics Guide](metrics/STELLAR_METRICS_GUIDE.md)
 - [Grafana Dashboard Guide](monitoring/GRAFANA_DASHBOARD_GUIDE.md)
 - [SCP Analytics Pipeline](scp-analytics-pipeline.md)
